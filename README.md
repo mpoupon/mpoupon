@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Mathieu Poupon (@mpoupon)
-- 👨‍🎓 I'm PhD Student at Princeton University
+- 👨‍🎓 I'm PhD Candidate at Princeton University
 - 🌊 I study ocean biogeochemistry
