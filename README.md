@@ -1,4 +1,4 @@
-👋 Hi, I’m Mathieu Poupon (@mpoupon)
-👨‍🎓 I hold a PhD from Princeton University and am now a postdoctoral researcher at CNRS (LOCEAN-IPSL)
-🌊 I study the ocean carbon cycle, carbon dioxide removal, and climate policy
-📫 Reach out at mathieu.poupon@locean.ipsl.fr
+- 👋 Hi, I’m Mathieu Poupon (@mpoupon)
+- 👨‍🎓 I hold a PhD from Princeton University and am now a postdoctoral researcher at CNRS (LOCEAN-IPSL)
+- 🌊 I study the ocean carbon cycle, carbon dioxide removal, and climate policy
+- 📫 Reach out at mathieu.poupon@locean.ipsl.fr
